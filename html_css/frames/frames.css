@@ -1,0 +1,207 @@
+body{
+   animation: fadeIn 3s;
+   transition: ease-in 3s;
+   text-align: center;
+}
+#text-wrap{
+   position: relative;
+}
+h1{
+   color: white;
+   position: absolute;
+   z-index: 1px;
+   top: 50px; 
+   left: 50px;
+}
+#FALCON{
+   width: 100%;
+   height: 800px;
+}
+
+
+
+#falcon9 {
+   position: absolute;
+   top: 0px;
+   right: 0px;
+   width: 500px;
+   height: 300px;
+   padding: 20px;
+}
+
+#falcon91{
+   color: aliceblue;
+   position: relative;
+   top: 0px;
+   left: 0px;
+}
+#falcon92{
+   color: aliceblue;
+   position: relative;
+   top: -313px;
+   left: 0px;
+}
+
+#falcon9-1{
+   text-align: left;
+   margin-left: 25px;
+}
+#falcon9-2{
+   text-align: right;
+}
+
+#launch1{
+   font-size: 15px;
+   color: aliceblue;
+   position: relative;
+   top: -310px;
+   left: -150px;
+}
+#launch1-1{
+   position: relative;
+   top: -64px;
+   left: 150px;
+}
+#launch1-1-1{
+   position: relative;
+   top: -64px;
+   left: 155px;
+}
+
+
+
+#falconH{
+   position: absolute;
+   top: 0px;
+   left: 0px;
+   width: 500px;
+   height: 300px;
+   padding: 20px;
+}
+#falconH1{
+   color: aliceblue;
+   position: relative;
+   top: 0px;
+   left: 0px;
+}
+#falconH2{
+   color: aliceblue;
+   position: relative;
+   top: -313px;
+   left: 0px;
+}
+
+#launch2{
+   font-size: 15px;
+   color: aliceblue;
+   position: relative;
+   top: -310px;
+   left: -150px;
+}
+#launch2-2{
+   position: relative;
+   top: -64px;
+   left: 150px;
+}
+#launch2-2-2{
+   position: relative;
+   top: -64px;
+   left: 155px;
+}
+
+
+
+
+
+
+
+#SS{
+   position: absolute;
+   bottom: 0px;
+   right: 0px;
+   width: 500px;
+   height: 300px;
+   padding: 20px;
+}
+#SS1{
+   color: aliceblue;
+   position: relative;
+   top: 0px;
+   left: 0px;
+}
+#SS2{
+   color: aliceblue;
+   position: relative;
+   top: -155px;
+   left: 0px;
+}
+
+#SS1-1{
+   text-align: left;
+   margin-left: 25px;
+}
+#SS2-2{
+   text-align: right;
+}
+
+
+
+
+
+
+
+#D{
+   position: absolute;
+   top: 0px;
+   right: 0px;
+   width: 350px;
+   height: 300px;
+   padding: 20px;
+}
+#D1{
+   color: aliceblue;
+   position: relative;
+   top: 0px;
+   left: 0px;
+}
+#D2{
+   color: aliceblue;
+   position: relative;
+   top: -313px;
+   left: 0px;
+}
+#D1-1{
+   text-align: left;
+   margin-left: 25px;
+}
+#D2-2{
+   text-align: right;
+}
+#launch4{
+   font-size: 11px;
+   color: aliceblue;
+   position: relative;
+   top: -310px;
+   left: -120px;
+}
+#launch4-4{
+   position: relative;
+   top: -46px;
+   left: 120px;
+}
+#launch4-4-4{
+   position: relative;
+   top: -46px;
+   left: 120px;
+}
+
+#b1{
+   font-weight: bold;
+}
+
+
+
+@keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
